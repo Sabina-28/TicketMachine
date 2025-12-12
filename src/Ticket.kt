@@ -1,3 +1,4 @@
+
 data class Ticket(
     val origin: String,
     val destination: String,
